@@ -1,0 +1,5 @@
+/Users/pouyarad/Documents/SEM 6 CPA/GAM531/Assignments/Midterm/MidtermGame/obj/Debug/net9.0/MidtermGame.csproj.AssemblyReference.cache
+/Users/pouyarad/Documents/SEM 6 CPA/GAM531/Assignments/Midterm/MidtermGame/obj/Debug/net9.0/MidtermGame.GeneratedMSBuildEditorConfig.editorconfig
+/Users/pouyarad/Documents/SEM 6 CPA/GAM531/Assignments/Midterm/MidtermGame/obj/Debug/net9.0/MidtermGame.AssemblyInfoInputs.cache
+/Users/pouyarad/Documents/SEM 6 CPA/GAM531/Assignments/Midterm/MidtermGame/obj/Debug/net9.0/MidtermGame.AssemblyInfo.cs
+/Users/pouyarad/Documents/SEM 6 CPA/GAM531/Assignments/Midterm/MidtermGame/obj/Debug/net9.0/MidtermGame.csproj.CoreCompileInputs.cache
